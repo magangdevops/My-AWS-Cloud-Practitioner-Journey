@@ -18,7 +18,7 @@
 * Networking Services(VPC, Route53, CloudFront etc)
 
 ## AWS Well-Architected Framework
-
+*
 
 ## AWS Shared Responsibility Model
 * AWS is responsibile for the security of the cloud, that is physical security of the data centers, network security, hardware and global infrustructure. 
@@ -36,6 +36,7 @@
 * Developer Support Plan 
 * Business Support Plan
 * Enterprise Support Plan
+
 
 
 
