@@ -8,10 +8,6 @@
 * Single Tenancy
 * Multi-tenancy
 
-
-https://www.linkedin.com/in/keabetswe-magang
-
-
 ## What is Amazon Web Services?
 * Amazon Web Services is a comprehensive and widely adopted cloud platform that offers over 200 full-featured services from data centers located around the globe.
 
@@ -40,5 +36,6 @@ https://www.linkedin.com/in/keabetswe-magang
 * Developer Support Plan 
 * Business Support Plan
 * Enterprise Support Plan
+
 
 
